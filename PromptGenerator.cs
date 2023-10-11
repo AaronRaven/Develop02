@@ -9,10 +9,6 @@
             "If I had one thing I could do over today, what would it be?",
             "What new did I learn today?"
         };
-           
-        public PromptGenerator()
-        {
-        }
 
         public string GetPrompt()
         {

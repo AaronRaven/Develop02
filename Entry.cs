@@ -3,10 +3,7 @@
         public string _date = "";
         public string _heading = "";
         public string _record = "";
-   
-        public Entry()
-        {
-        }
+
 
         public void Display()
         {
