@@ -1,0 +1,14 @@
+C:\Users\hawku\OneDrive\Documents\byu-idaho\cse 210\-cse210-hw\prove\Develop02\obj\Debug\net7.0\Develop02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hawku\OneDrive\Documents\byu-idaho\cse 210\-cse210-hw\prove\Develop02\obj\Debug\net7.0\Develop02.AssemblyInfoInputs.cache
+C:\Users\hawku\OneDrive\Documents\byu-idaho\cse 210\-cse210-hw\prove\Develop02\obj\Debug\net7.0\Develop02.AssemblyInfo.cs
+C:\Users\hawku\OneDrive\Documents\byu-idaho\cse 210\-cse210-hw\prove\Develop02\obj\Debug\net7.0\Develop02.csproj.CoreCompileInputs.cache
+C:\Users\hawku\OneDrive\Documents\byu-idaho\cse 210\-cse210-hw\prove\Develop02\bin\Debug\net7.0\Develop02.exe
+C:\Users\hawku\OneDrive\Documents\byu-idaho\cse 210\-cse210-hw\prove\Develop02\bin\Debug\net7.0\Develop02.deps.json
+C:\Users\hawku\OneDrive\Documents\byu-idaho\cse 210\-cse210-hw\prove\Develop02\bin\Debug\net7.0\Develop02.runtimeconfig.json
+C:\Users\hawku\OneDrive\Documents\byu-idaho\cse 210\-cse210-hw\prove\Develop02\bin\Debug\net7.0\Develop02.dll
+C:\Users\hawku\OneDrive\Documents\byu-idaho\cse 210\-cse210-hw\prove\Develop02\bin\Debug\net7.0\Develop02.pdb
+C:\Users\hawku\OneDrive\Documents\byu-idaho\cse 210\-cse210-hw\prove\Develop02\obj\Debug\net7.0\Develop02.dll
+C:\Users\hawku\OneDrive\Documents\byu-idaho\cse 210\-cse210-hw\prove\Develop02\obj\Debug\net7.0\refint\Develop02.dll
+C:\Users\hawku\OneDrive\Documents\byu-idaho\cse 210\-cse210-hw\prove\Develop02\obj\Debug\net7.0\Develop02.pdb
+C:\Users\hawku\OneDrive\Documents\byu-idaho\cse 210\-cse210-hw\prove\Develop02\obj\Debug\net7.0\Develop02.genruntimeconfig.cache
+C:\Users\hawku\OneDrive\Documents\byu-idaho\cse 210\-cse210-hw\prove\Develop02\obj\Debug\net7.0\ref\Develop02.dll
